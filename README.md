@@ -1,2 +1,2 @@
 # Bulk-IP-to-Geolocation
-Simple Python program to perform bulk IP --> Geolocation lookups
+Simple Python program to perform bulk IP --> Geolocation lookups usin ip-api. 
